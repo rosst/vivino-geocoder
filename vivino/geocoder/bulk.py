@@ -1,8 +1,7 @@
 import pandas as pd
-
-from vivino.geocoder import helpers
-
 import argparse
+import csv
+from vivino.geocoder import helpers
 
 parser = argparse.ArgumentParser(description='Bulk geocode a Vivino export file in tsv format.')
 
@@ -57,4 +56,6 @@ geodf.columns = ['lat', 'lon']
 
 data = data.join(geodf)
 
-data.to_csv(args.outputpath)
+print('writing to ' + args.outputpath)
+
+data.to_csv(args.outputpath, sep='\t', encoding='utf8', quoting=csv.QUOTE_NONNUMERIC)

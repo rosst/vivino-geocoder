@@ -1,0 +1,118 @@
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.1.3/css/ol.css" type="text/css">
+
+      <style>
+
+      .map {
+        height: 80%;
+        width: 100%;
+      }
+
+    </style>
+
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.1.3/build/ol.js"></script>
+
+    <title>OpenLayers example</title>
+
+  </head>
+
+  <body>
+
+    <h2>Wine Map</h2>
+
+    <div id="map" class="map"></div>
+
+    <script type="text/javascript">
+
+ var styleFunction = function(feature) {
+
+      var color;
+
+      if (feature.get("count")<=5){
+
+        radius = 10;
+
+      } else if (feature.get("count")<=10){
+
+        radius = 15;
+
+      } else {
+
+        radius = 20;
+      }
+
+      if (feature.get("Wine type") == "Red Wine"){
+
+        color = "red";
+
+      } else if (feature.get("Wine type") == "White Wine"){
+
+        color = "blue";
+
+      } else {
+
+        color = "white";
+
+      }
+
+      desc = String(feature.get("count"));
+
+      var retStyle = new ol.style.Style({
+
+                        image: new ol.style.Circle({
+                                   radius: radius,
+                                   fill: new ol.style.Fill({
+                                        color: color
+                                   })
+                        }),
+
+                        text: new ol.style.Text({
+                            font: '20px Calibri,sans-serif',
+                            stroke: new ol.style.Stroke({
+                                color: 'black',
+                                width: 1
+                            }),
+                            text: desc
+                        })
+                    })
+
+       return retStyle;
+
+      };
+
+      var map = new ol.Map({
+
+        target: 'map',
+
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+
+          new ol.layer.Vector({
+            title: 'added Layer',
+            source: new ol.source.Vector({
+                    url: 'static/data.json',
+                    format: new ol.format.GeoJSON()
+                }),
+            style: styleFunction
+          })
+
+        ],
+
+        view: new ol.View({
+          center: ol.proj.fromLonLat([13.4,52.52]),
+          zoom: 2
+        })
+      });
+
+    </script>
+
+  </body>
+
+</html>

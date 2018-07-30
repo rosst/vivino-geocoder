@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5568053706581,
+          46.7949349
+        ]
+      },
+      "properties": {
+        "Winery": "Alfred Bayer",
+        "count": 2,
+        "Wine type": "Red Wine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0118954,
+          45.5643442
+        ]
+      },
+      "properties": {
+        "winery": "Prirodni Pjenusac",
+        "count": 6,
+        "Wine type": "White Wine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5592278,
+          50.3638081
+        ]
+      },
+      "properties": {
+        "winery": "Matthias Müller",
+        "count": 11,
+        "Wine type": "Rosé Wine"
+      }
+    }
+  ]
+}

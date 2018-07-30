@@ -57,7 +57,7 @@ def geocode_list(places):
     return lookup
 
 
-# Return a pair of latitude longitude coordinates for a given place name by querying the nominatim open street map API
+# Return a pair of latitude longitude coordinates for a given place name by querying the nominatim open street web_app API
 # If no coordinates are found, <0,0> is returned.
 
 def get_coordinates(place):

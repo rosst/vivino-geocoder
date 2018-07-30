@@ -68,7 +68,7 @@ def get_coordinates(place):
 
         with request.urlopen(url) as response:
 
-            jsonres = json.loads(response.read())
+            jsonres = json.loads(response.read().decode('utf-8'))
 
             if len(jsonres) == 0:
                 return 0, 0

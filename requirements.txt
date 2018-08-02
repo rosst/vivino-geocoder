@@ -1,2 +1,4 @@
 pandas==0.23.3
 flask==1.0.2
+shapely-geojson==0.0.1
+shapely==1.6.4.post2

@@ -6,14 +6,223 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "AGE",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Abbazia Santa Anastasia",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           15.5568053706581,
           46.7949349
         ]
       },
       "properties": {
-        "Winery": "Alfred Bayer",
-        "count": 2,
-        "Wine type": "Red Wine"
+        "name": "Alfred Bayer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258803,
+          48.26274179999999
+        ]
+      },
+      "properties": {
+        "name": "Alfred Bayer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.763245699999999,
+          48.2817813
+        ]
+      },
+      "properties": {
+        "name": "Alfred Bayer",
+        "count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1305431000000001,
+          37.9923795
+        ]
+      },
+      "properties": {
+        "name": "Allegranza",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.30474981173576,
+          41.17004195
+        ]
+      },
+      "properties": {
+        "name": "Altano",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Andreas Oster",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Antiche Terre Venete",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Armand Chaperon",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7157914886541,
+          41.6757169
+        ]
+      },
+      "properties": {
+        "name": "Arrocal",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Artuke",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.929688654264211,
+          38.627278100000005
+        ]
+      },
+      "properties": {
+        "name": "Assis Lobo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0918342,
+          45.9070215
+        ]
+      },
+      "properties": {
+        "name": "Astoria",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5404242,
+          -23.122391699999998
+        ]
+      },
+      "properties": {
+        "name": "Autoritas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7157914886541,
+          41.6757169
+        ]
+      },
+      "properties": {
+        "name": "Aventino",
+        "count": 1
       }
     },
     {
@@ -26,9 +235,8 @@
         ]
       },
       "properties": {
-        "winery": "Prirodni Pjenusac",
-        "count": 6,
-        "Wine type": "White Wine"
+        "name": "Babic",
+        "count": 1
       }
     },
     {
@@ -36,14 +244,3429 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5592278,
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Bagordi",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Ballarin",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.75599740000001,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "name": "Barefoot",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1575875,
+          49.354905200000005
+        ]
+      },
+      "properties": {
+        "name": "Baron Edmond de Rothschild",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5404242,
+          -23.122391699999998
+        ]
+      },
+      "properties": {
+        "name": "Baron Philippe de Rothschild",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Baron Philippe de Rothschild",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Baron de Ley",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Bernard Magrez",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Bertoldi",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.331899300000003,
+          42.188454899999996
+        ]
+      },
+      "properties": {
+        "name": "Bessa Valley",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.991639000000003,
+          -28.816623600000003
+        ]
+      },
+      "properties": {
+        "name": "Beyerskloof",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31076130334371,
+          -47.1860304
+        ]
+      },
+      "properties": {
+        "name": "Bodega Finca Las Moras",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43530820000001,
+          -34.578847100000004
+        ]
+      },
+      "properties": {
+        "name": "Bodega Piedra Negra",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.50581896115502,
+          41.78676275
+        ]
+      },
+      "properties": {
+        "name": "Bodegas Aragonesas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6422976999999999,
+          41.352762799999994
+        ]
+      },
+      "properties": {
+        "name": "Bodegas Langa",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7639373,
+          41.3787291
+        ]
+      },
+      "properties": {
+        "name": "Bodegas Langa",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7882552,
+          44.064831700000006
+        ]
+      },
+      "properties": {
+        "name": "Borgogno",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Borgogno Francesco",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9428448000000005,
+          44.6108408
+        ]
+      },
+      "properties": {
+        "name": "Borgogno Francesco",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.923549,
+          45.060735
+        ]
+      },
+      "properties": {
+        "name": "Borgogno Francesco",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15606620000000002,
+          44.893145200000006
+        ]
+      },
+      "properties": {
+        "name": "Borie Manoux",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Bovier & Fils",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8001657,
+          47.8152073
+        ]
+      },
+      "properties": {
+        "name": "Bovier & Fils",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Brancott Estate",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.957179705362899,
+          45.34851865
+        ]
+      },
+      "properties": {
+        "name": "Brunetti di Amerosa",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0869852,
+          46.658586799999995
+        ]
+      },
+      "properties": {
+        "name": "Brut Dargent",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65916415107717,
+          40.632544200000005
+        ]
+      },
+      "properties": {
+        "name": "CM",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.629742561688977,
+          44.83865125
+        ]
+      },
+      "properties": {
+        "name": "Calvet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Calvet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5192803,
+          45.4559451
+        ]
+      },
+      "properties": {
+        "name": "Camille Cayran",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Campo Viejo",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Canella",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Cantine Mucci",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9626735,
+          37.9766497
+        ]
+      },
+      "properties": {
+        "name": "Cantine Pellegrino",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Cantine Pellegrino",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5404242,
+          -23.122391699999998
+        ]
+      },
+      "properties": {
+        "name": "Casillero del Diablo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3086645,
+          43.3932476
+        ]
+      },
+      "properties": {
+        "name": "Castello di Querceto",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.509504,
+          43.4069838
+        ]
+      },
+      "properties": {
+        "name": "Cave de l'Ormarine",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Cave des Charmilles",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Ceuso",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Chais Reunis",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21044339999999997,
+          44.9560756
+        ]
+      },
+      "properties": {
+        "name": "Chateau La Mission",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15606620000000002,
+          44.893145200000006
+        ]
+      },
+      "properties": {
+        "name": "Cheval Quancard",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Chevalier",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.67466994020661,
+          43.65420305
+        ]
+      },
+      "properties": {
+        "name": "Chevalier de Bayard",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7484994,
+          45.1995626
+        ]
+      },
+      "properties": {
+        "name": "Château Batailley",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.218895748553388,
+          44.96283365
+        ]
+      },
+      "properties": {
+        "name": "Château Beard",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Château Belle Nauve",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Château Bonneau",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15606620000000002,
+          44.893145200000006
+        ]
+      },
+      "properties": {
+        "name": "Château Brun",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Château Cantenac",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1575875,
+          49.354905200000005
+        ]
+      },
+      "properties": {
+        "name": "Château Charmail",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Château Clos du Moulin",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1575875,
+          49.354905200000005
+        ]
+      },
+      "properties": {
+        "name": "Château Fontesteau",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1575875,
+          49.354905200000005
+        ]
+      },
+      "properties": {
+        "name": "Château Grand Clapeau Olivier",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7706847,
+          45.2642784
+        ]
+      },
+      "properties": {
+        "name": "Château Haut Corbian",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Château La Croix du Breuil",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Château Leboscq",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1060768,
+          45.6500048
+        ]
+      },
+      "properties": {
+        "name": "Château Les Clauzots",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Château Les Girards",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Château Lescure",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.165846,
+          44.92537539999999
+        ]
+      },
+      "properties": {
+        "name": "Château Macquin",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1999904,
+          44.9311234
+        ]
+      },
+      "properties": {
+        "name": "Château Marzy",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.213174560438802,
+          44.63658085
+        ]
+      },
+      "properties": {
+        "name": "Château Nenine",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Château Peymouton",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21044339999999997,
+          44.9560756
+        ]
+      },
+      "properties": {
+        "name": "Château Pignon",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Château Pipeau",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1575875,
+          49.354905200000005
+        ]
+      },
+      "properties": {
+        "name": "Château Ségur",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Château Tour Saint George",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.629742561688977,
+          44.83865125
+        ]
+      },
+      "properties": {
+        "name": "Château de Lisennes",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Château de Monbadon",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.22248630430605,
+          47.27808725
+        ]
+      },
+      "properties": {
+        "name": "Château de Santenay",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21044339999999997,
+          44.9560756
+        ]
+      },
+      "properties": {
+        "name": "Château de la Commanderie",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Château le Breuil Renaissance",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Cimarosa",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.213174560438802,
+          44.63658085
+        ]
+      },
+      "properties": {
+        "name": "Club des Sommeliers",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6803684,
+          41.8082452
+        ]
+      },
+      "properties": {
+        "name": "Collezione Marchesini",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03433129999999,
+          34.000749299999995
+        ]
+      },
+      "properties": {
+        "name": "Columbia Crest",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6322327,
+          45.611338200000006
+        ]
+      },
+      "properties": {
+        "name": "Comtadine",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3086645,
+          43.3932476
+        ]
+      },
+      "properties": {
+        "name": "Contado del Grifo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.190057999999999,
+          40.248604
+        ]
+      },
+      "properties": {
+        "name": "Conti Zecca",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Corvo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.003104,
+          40.0028028
+        ]
+      },
+      "properties": {
+        "name": "Costers del Sió",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Cà Montini",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Dacapo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9428448000000005,
+          44.6108408
+        ]
+      },
+      "properties": {
+        "name": "Damilano",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.75599740000001,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "name": "Dark Horse",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.574987400000001,
+          45.395619399999994
+        ]
+      },
+      "properties": {
+        "name": "Delas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.01844859999999,
+          -33.1086856
+        ]
+      },
+      "properties": {
+        "name": "Dieter Meier",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.763245699999999,
+          48.2817813
+        ]
+      },
+      "properties": {
+        "name": "Dolle",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5666078,
+          47.161511
+        ]
+      },
+      "properties": {
+        "name": "Domaine Minchin",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Domaine de l'Arjolle",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4540399,
+          43.604764
+        ]
+      },
+      "properties": {
+        "name": "Domaine de la Baume",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9335365,
+          44.229007700000004
+        ]
+      },
+      "properties": {
+        "name": "Domaine des Escaravailles",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.574987400000001,
+          45.395619399999994
+        ]
+      },
+      "properties": {
+        "name": "Domaine du Grézas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8390333,
+          47.3307251
+        ]
+      },
+      "properties": {
+        "name": "Dominique et Janine Crochet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Doppio Passo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Edition Valentin Vogel",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3743665,
+          47.898988700000004
+        ]
+      },
+      "properties": {
+        "name": "Egri Bikavér",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "El Coto",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0912155,
+          50.124148299999995
+        ]
+      },
+      "properties": {
+        "name": "Eser",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5404242,
+          -23.122391699999998
+        ]
+      },
+      "properties": {
+        "name": "Espíritu de Chile",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8001657,
+          47.8152073
+        ]
+      },
+      "properties": {
+        "name": "Etienne Boileau",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65916415107717,
+          40.632544200000005
+        ]
+      },
+      "properties": {
+        "name": "Faldas da Serra",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.733628,
+          45.7083528
+        ]
+      },
+      "properties": {
+        "name": "Falstaff",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Famille Ducourt",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Farnese",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Faustino",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.155048,
+          37.587794
+        ]
+      },
+      "properties": {
+        "name": "Feudo Arancio",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3759513,
+          39.4699014
+        ]
+      },
+      "properties": {
+        "name": "Finca Enguera",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.130581900000001,
+          38.7372778
+        ]
+      },
+      "properties": {
+        "name": "Fiuza",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1103568455351,
+          54.3014601
+        ]
+      },
+      "properties": {
+        "name": "Franken",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0912155,
+          50.124148299999995
+        ]
+      },
+      "properties": {
+        "name": "G.H. Mumm",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3086645,
+          43.3932476
+        ]
+      },
+      "properties": {
+        "name": "Geografico",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0912155,
+          50.124148299999995
+        ]
+      },
+      "properties": {
+        "name": "Georg Breuer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5998139,
+          46.067201700000005
+        ]
+      },
+      "properties": {
+        "name": "Georges Duboeuf",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Grande Vitae",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33179000000000003,
+          48.0168
+        ]
+      },
+      "properties": {
+        "name": "Gruet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8001657,
+          47.8152073
+        ]
+      },
+      "properties": {
+        "name": "Guette Soleil",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4074699518555,
+          48.24917645
+        ]
+      },
+      "properties": {
+        "name": "Gustave Lorent",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Heinrich Vollmer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Hubert Brochard",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8001657,
+          47.8152073
+        ]
+      },
+      "properties": {
+        "name": "Jean-Paul & Benoit Droin",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.22248630430605,
+          47.27808725
+        ]
+      },
+      "properties": {
+        "name": "Joseph Drouhin",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.727529999999998,
+          -33.546977000000005
+        ]
+      },
+      "properties": {
+        "name": "KWV",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0118954,
+          45.5643442
+        ]
+      },
+      "properties": {
+        "name": "Katunar",
+        "count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.883611,
+          -33.802222
+        ]
+      },
+      "properties": {
+        "name": "Klippenkop",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "La Cantina dei Feudi",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8001657,
+          47.8152073
+        ]
+      },
+      "properties": {
+        "name": "La Chablisienne",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "La Chapelle Despagnet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.574987400000001,
+          45.395619399999994
+        ]
+      },
+      "properties": {
+        "name": "La Châsse",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Lamberti",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Lan",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.638457,
+          52.11768789999999
+        ]
+      },
+      "properties": {
+        "name": "Lauffener",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0918342,
+          45.9070215
+        ]
+      },
+      "properties": {
+        "name": "Le Contesse",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Le Mounant",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4540399,
+          43.604764
+        ]
+      },
+      "properties": {
+        "name": "Les Collines du Bourdic",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4540399,
+          43.604764
+        ]
+      },
+      "properties": {
+        "name": "Les Jamelles",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4540399,
+          43.604764
+        ]
+      },
+      "properties": {
+        "name": "Les Producteurs Réunis",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Les Richoises",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8313243,
+          43.709664399999994
+        ]
+      },
+      "properties": {
+        "name": "Les Vignerons de Buzet",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7055897,
+          48.116066
+        ]
+      },
+      "properties": {
+        "name": "Les Vignerons de la Vicomté",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.58714596141335,
+          38.84214535
+        ]
+      },
+      "properties": {
+        "name": "Lima Mayer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.713951,
+          45.988262899999995
+        ]
+      },
+      "properties": {
+        "name": "Louis Jadot",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5998139,
+          46.067201700000005
+        ]
+      },
+      "properties": {
+        "name": "Louis Jadot",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.698121400000001,
+          46.19202429999999
+        ]
+      },
+      "properties": {
+        "name": "Louis Jadot",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72741812642045,
+          46.2029456
+        ]
+      },
+      "properties": {
+        "name": "Louis Jadot",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Louis Jadot",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4540399,
+          43.604764
+        ]
+      },
+      "properties": {
+        "name": "Maison Vialade",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.155048,
+          37.587794
+        ]
+      },
+      "properties": {
+        "name": "Mandrarossa",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9428448000000005,
+          44.6108408
+        ]
+      },
+      "properties": {
+        "name": "Marchesi di Barolo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49876400000000004,
+          45.558530600000005
+        ]
+      },
+      "properties": {
+        "name": "Marquis de St.Vincent",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7471726,
+          41.8037172
+        ]
+      },
+      "properties": {
+        "name": "Marqués de Riscal",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5592277999999995,
           50.3638081
         ]
       },
       "properties": {
-        "winery": "Matthias Müller",
-        "count": 11,
-        "Wine type": "Rosé Wine"
+        "name": "Matthias Müller",
+        "count": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.97128470000001,
+          -31.935219300000004
+        ]
+      },
+      "properties": {
+        "name": "McGuigan",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Metzger",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0918342,
+          45.9070215
+        ]
+      },
+      "properties": {
+        "name": "Mionetto",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2249058000000002,
+          41.3373638
+        ]
+      },
+      "properties": {
+        "name": "Monfil",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Monte del Frá",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.869167,
+          -33.934444
+        ]
+      },
+      "properties": {
+        "name": "Mooiplaas Wine Estate",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Moselland",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Mount Nelson",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Mount Vernon",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Mouton Cadet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33179000000000003,
+          48.0168
+        ]
+      },
+      "properties": {
+        "name": "Moët & Chandon",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1365919,
+          38.707750700000005
+        ]
+      },
+      "properties": {
+        "name": "Mula Velha",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0912155,
+          50.124148299999995
+        ]
+      },
+      "properties": {
+        "name": "Mumm & Co",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4166666,
+          47.5000001
+        ]
+      },
+      "properties": {
+        "name": "Munzenrieder",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Navajas",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.991639000000003,
+          -28.816623600000003
+        ]
+      },
+      "properties": {
+        "name": "Nederburg",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3187697,
+          -31.7613365
+        ]
+      },
+      "properties": {
+        "name": "New World Over Seas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Nicosia",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.30474981173576,
+          41.17004195
+        ]
+      },
+      "properties": {
+        "name": "Niepoort",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83078768299155,
+          42.61254875
+        ]
+      },
+      "properties": {
+        "name": "Ochoa",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1365919,
+          38.707750700000005
+        ]
+      },
+      "properties": {
+        "name": "Pactus",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4674917,
+          42.3285528
+        ]
+      },
+      "properties": {
+        "name": "Palacios Remondo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7055897,
+          48.116066
+        ]
+      },
+      "properties": {
+        "name": "Paul Mas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.99878719802498,
+          -34.5817132
+        ]
+      },
+      "properties": {
+        "name": "Peter Lehmann",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Philippe Dumas",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Pio Cesare",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7882552,
+          44.064831700000006
+        ]
+      },
+      "properties": {
+        "name": "Pio Cesare",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.67466994020661,
+          43.65420305
+        ]
+      },
+      "properties": {
+        "name": "Pradines d'Amont",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7055897,
+          48.116066
+        ]
+      },
+      "properties": {
+        "name": "Pradines d'Amont",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0912155,
+          50.124148299999995
+        ]
+      },
+      "properties": {
+        "name": "Prinz von Preussen",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0118954,
+          45.5643442
+        ]
+      },
+      "properties": {
+        "name": "Prirodni Pjenusac",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83078768299155,
+          42.61254875
+        ]
+      },
+      "properties": {
+        "name": "Príncipe de Viana",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.30474981173576,
+          41.17004195
+        ]
+      },
+      "properties": {
+        "name": "Quinta da Prelada",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65916415107717,
+          40.632544200000005
+        ]
+      },
+      "properties": {
+        "name": "Quinta de Pinhancos",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.644770000000001,
+          46.555628000000006
+        ]
+      },
+      "properties": {
+        "name": "Ramšak",
+        "count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Raymond Huet",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Reichsrat von Buhl",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.271108199999999,
+          49.904518100000004
+        ]
+      },
+      "properties": {
+        "name": "Rein Schiefer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.638457,
+          52.11768789999999
+        ]
+      },
+      "properties": {
+        "name": "Remstalkellerei",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Renato Ratti",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883334999999999,
+          46.603353999999996
+        ]
+      },
+      "properties": {
+        "name": "Roger Pellissier",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.727529999999998,
+          -33.546977000000005
+        ]
+      },
+      "properties": {
+        "name": "Roodeberg",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.97128470000001,
+          -31.935219300000004
+        ]
+      },
+      "properties": {
+        "name": "Rosemount",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6301212,
+          -30.534366499999997
+        ]
+      },
+      "properties": {
+        "name": "Rosemount",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.094615699999999,
+          51.1501154
+        ]
+      },
+      "properties": {
+        "name": "Rotkäppchen",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5060937,
+          47.1817585
+        ]
+      },
+      "properties": {
+        "name": "Royal",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.01542579999999,
+          -33.581292499999996
+        ]
+      },
+      "properties": {
+        "name": "Salentein",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7882552,
+          44.064831700000006
+        ]
+      },
+      "properties": {
+        "name": "San Mondello",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83078768299155,
+          42.61254875
+        ]
+      },
+      "properties": {
+        "name": "San Salvador",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1389204,
+          43.458654100000004
+        ]
+      },
+      "properties": {
+        "name": "Santa Cristina",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Schneider",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.809353,
+          44.687649
+        ]
+      },
+      "properties": {
+        "name": "Serre dei Roveri",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.733628,
+          45.7083528
+        ]
+      },
+      "properties": {
+        "name": "Soligo",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1295430998718,
+          46.102817
+        ]
+      },
+      "properties": {
+        "name": "Spagnolli",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.271108199999999,
+          49.904518100000004
+        ]
+      },
+      "properties": {
+        "name": "Stefan Winter",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.727529999999998,
+          -33.546977000000005
+        ]
+      },
+      "properties": {
+        "name": "Sumerton",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5404242,
+          -23.122391699999998
+        ]
+      },
+      "properties": {
+        "name": "Sunrise",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7157914886541,
+          41.6757169
+        ]
+      },
+      "properties": {
+        "name": "Tamaral",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1389204,
+          43.458654100000004
+        ]
+      },
+      "properties": {
+        "name": "Tenuta Friggiali",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8442956,
+          -32.8897294
+        ]
+      },
+      "properties": {
+        "name": "Terrazas de los Andes",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Terre Forti",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3086645,
+          43.3932476
+        ]
+      },
+      "properties": {
+        "name": "Terre del Poggio",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0118954,
+          45.5643442
+        ]
+      },
+      "properties": {
+        "name": "Testament",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "The Ned",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Tommasi",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1048413,
+          43.704307299999996
+        ]
+      },
+      "properties": {
+        "name": "Torfagiano",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8442956,
+          -32.8897294
+        ]
+      },
+      "properties": {
+        "name": "Trapiche",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8442956,
+          -32.8897294
+        ]
+      },
+      "properties": {
+        "name": "Trivento",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Two Peaks",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.190057999999999,
+          40.248604
+        ]
+      },
+      "properties": {
+        "name": "Varvaglione",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.999414399999996,
+          40.2894249
+        ]
+      },
+      "properties": {
+        "name": "Vecchia Torre",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.963748300000002,
+          40.385661799999994
+        ]
+      },
+      "properties": {
+        "name": "Vecchia Torre",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Via al Castello",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7906828,
+          45.7832809
+        ]
+      },
+      "properties": {
+        "name": "Via al Castello",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Vieux Tinailler",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8312888,
+          44.055333600000004
+        ]
+      },
+      "properties": {
+        "name": "Vignerons Reunis",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.621002700000002,
+          40.9842539
+        ]
+      },
+      "properties": {
+        "name": "Vigneti del Salento",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7906828,
+          45.7832809
+        ]
+      },
+      "properties": {
+        "name": "Vigneto Borghetta",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Vignobles Landié",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8665254,
+          45.6476663
+        ]
+      },
+      "properties": {
+        "name": "Villa Maria Carla",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8665254,
+          45.6476663
+        ]
+      },
+      "properties": {
+        "name": "Villa Sandi",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0118954,
+          45.5643442
+        ]
+      },
+      "properties": {
+        "name": "Vina Laguna",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "name": "Virna",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7882552,
+          44.064831700000006
+        ]
+      },
+      "properties": {
+        "name": "Virna",
+        "count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9428448000000005,
+          44.6108408
+        ]
+      },
+      "properties": {
+        "name": "Virna",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Wachtenburg Winzer",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5592277999999995,
+          50.3638081
+        ]
+      },
+      "properties": {
+        "name": "Weingart",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1103568455351,
+          54.3014601
+        ]
+      },
+      "properties": {
+        "name": "Winzer Sommerach",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.97128470000001,
+          -31.935219300000004
+        ]
+      },
+      "properties": {
+        "name": "Yellow Tail",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1635208,
+          49.3017811
+        ]
+      },
+      "properties": {
+        "name": "Zelt",
+        "count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.833026257761,
+          -41.47447475
+        ]
+      },
+      "properties": {
+        "name": "Zimmerman-Graeff & Müller",
+        "count": 1
       }
     }
   ]

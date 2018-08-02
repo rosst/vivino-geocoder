@@ -29,87 +29,75 @@
 
     <script type="text/javascript">
 
- var styleFunction = function(feature) {
+     var styleFunction = function(feature) {
 
-      var color;
+          var color;
 
-      if (feature.get("count")<=5){
+          if (feature.get("count")<=2){
 
-        radius = 10;
+            radius = 3;
 
-      } else if (feature.get("count")<=10){
+          } else if (feature.get("count")<=5){
 
-        radius = 15;
+            radius = 5;
 
-      } else {
+          } else {
 
-        radius = 20;
-      }
+            radius = 10;
+          }
 
-      if (feature.get("Wine type") == "Red Wine"){
+          color = "blue";
 
-        color = "red";
+          //desc = String(feature.get("name"));
 
-      } else if (feature.get("Wine type") == "White Wine"){
+          var retStyle = new ol.style.Style({
 
-        color = "blue";
-
-      } else {
-
-        color = "white";
-
-      }
-
-      desc = String(feature.get("count"));
-
-      var retStyle = new ol.style.Style({
-
-                        image: new ol.style.Circle({
-                                   radius: radius,
-                                   fill: new ol.style.Fill({
-                                        color: color
-                                   })
-                        }),
-
-                        text: new ol.style.Text({
-                            font: '20px Calibri,sans-serif',
-                            stroke: new ol.style.Stroke({
-                                color: 'black',
-                                width: 1
+                            image: new ol.style.Circle({
+                                       radius: radius,
+                                       fill: new ol.style.Fill({
+                                            color: color
+                                       })
                             }),
-                            text: desc
+
+                            text: new ol.style.Text({
+                                font: '12px sans-serif',
+                                stroke: new ol.style.Stroke({
+                                    color: 'black',
+                                    width: 1
+                                }),
+                                //text: desc
+                            })
                         })
-                    })
 
-       return retStyle;
+           return retStyle;
 
-      };
+          };
 
-      var map = new ol.Map({
+          var map = new ol.Map({
 
-        target: 'map',
+            target: 'map',
 
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          }),
+            layers: [
+              new ol.layer.Tile({
+                source: new ol.source.OSM()
+              }),
 
-          new ol.layer.Vector({
-            title: 'added Layer',
-            source: new ol.source.Vector({
-                    url: 'static/data.json',
-                    format: new ol.format.GeoJSON()
-                }),
-            style: styleFunction
-          })
+              new ol.layer.Vector({
+                title: 'added Layer',
+                source: new ol.source.Vector({
+                        url: 'static/data.json',
+                        format: new ol.format.GeoJSON()
+                    }),
+                style: styleFunction
+              })
 
-        ],
+            ],
 
-        view: new ol.View({
-          center: ol.proj.fromLonLat([13.4,52.52]),
-          zoom: 2
-        })
-      });
+            view: new ol.View({
+              center: ol.proj.fromLonLat([13.4,52.52]),
+              zoom: 2
+            })
+          });
 
     </script>
 

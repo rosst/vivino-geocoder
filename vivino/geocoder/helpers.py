@@ -1,41 +1,8 @@
 import json
 
 from urllib import request
-from urllib import parse
 
-from argparse import ArgumentTypeError
-
-# Check for valid file paths provided as command line arguments
-# Following https://stackoverflow.com/questions/27494400/python-using-file-handle-to-print-contents-of-file
-
-
-def is_valid_file(arg):
-
-    try:
-
-        return open(arg, 'r')  # return an open file handle
-
-    except IOError:
-
-        raise ArgumentTypeError("The file %s does not exist!" % arg)
-
-
-# Encode non ascii charaters in a url
-# Tip of the hat to
-# https://stackoverflow.com/questions/4389572/how-to-fetch-a-non-ascii-url-with-python-urlopen/29231552
-
-
-def encode_url(url):
-
-    url = parse.urlsplit(url)
-
-    url = list(url)
-
-    url[2] = parse.quote(url[2])
-
-    url = parse.urlunsplit(url)
-
-    return url
+from vivino import utils
 
 
 # Return a dict of from the given list of places that maps each place name to a pair of latitude longitude coordinates.
@@ -57,12 +24,12 @@ def geocode_list(places):
     return lookup
 
 
-# Return a pair of latitude longitude coordinates for a given place name by querying the nominatim open street web_app API
-# If no coordinates are found, <0,0> is returned.
+# Return a pair of latitude longitude coordinates for a given place name by querying the nominatim open street web_app
+# API if no coordinates are found, <0,0> is returned.
 
 def get_coordinates(place):
 
-    url = encode_url('https://nominatim.openstreetmap.org/search/' + place + '?format=json&limit=1')
+    url = utils.encode_url('https://nominatim.openstreetmap.org/search/' + place + '?format=json&limit=1')
 
     try:
 

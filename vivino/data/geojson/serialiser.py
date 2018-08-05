@@ -20,7 +20,7 @@ def create_feature(winery):
 
 def serialise(winery):
 
-    feature = Feature(Point(winery.coordinate[0], winery.coordinate[1]), properties={'name': winery.name, 'count': winery.count})
+    feature = create_feature(winery)
 
     return dumps(feature, indent=2)
 

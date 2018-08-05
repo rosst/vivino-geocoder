@@ -1,6 +1,8 @@
+import traceback
+
 import json
 
-from urllib import request
+import urllib.request
 
 from vivino import utils
 
@@ -33,20 +35,33 @@ def get_coordinates(place):
 
     try:
 
-        with request.urlopen(url) as response:
+        with urllib.request.urlopen(url) as response:
+
+            if response.status != 200:
+
+                raise Exception('Exception: HTTP response status is ' + str(response.status))
 
             jsonres = json.loads(response.read().decode('utf-8'))
 
-            if len(jsonres) == 0:
-                return 0, 0
+            if len(jsonres) != 1 or not isinstance(jsonres, list):
+
+                raise Exception('Exception: Bad JSON response format')
+
+            if 'lat' not in jsonres[0]:
+
+                raise Exception('Exception: Bad JSON response format, not key named \'lat\'')
 
             lat = jsonres[0]['lat']
+
+            if 'lon' not in jsonres[0]:
+
+                raise Exception('Exception: Bad JSON response format, not key named \'lon\'')
 
             lon = jsonres[0]['lon']
 
     except Exception as e:
 
-        print("type error: " + str(e))
+        print(e)
 
         return 0, 0
 

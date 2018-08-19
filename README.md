@@ -9,3 +9,9 @@ The script performs the following tasks:
 2. Extracts the region / country information for each entry in the file
 3. Queries the https://wiki.openstreetmap.org/wiki/Nominatim API with the extraxted region / country information
 4. Extracts the latitude longitude from each response and updates the relevant wine entry in a new tsv file. 
+
+Run flask web application on localhost:5000:
+
+1. docker build -t geocoder .
+2. docker container run -d -p 5000:5000  geocoder:latest
+

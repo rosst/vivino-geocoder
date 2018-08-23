@@ -21,13 +21,13 @@ docker exec -it [CONTAINERID] python vivino/geocoder/bulk.py --inputpath INPUTPA
 
 What it does:
 
-2.1. Loads a tsv file of wine data exported from a Vivino account.
+  2.1. Loads a tsv file of wine data exported from a Vivino account.
 
-2.2. Extracts the region / country information for each entry in the file
+  2.2. Extracts the region / country information for each entry in the file
 
-2.3. Queries the https://wiki.openstreetmap.org/wiki/Nominatim API with the extraxted region / country information
+  2.3. Queries the https://wiki.openstreetmap.org/wiki/Nominatim API with the extraxted region / country information
 
-2.4. Extracts the latitude longitude from each response and updates the relevant wine entry in a new tsv file. 
+  2.4. Extracts the latitude longitude from each response and updates the relevant wine entry in a new tsv file. 
 
 3. vivino/geocoder/data/geojson/serialiser.py, which can take the output of vivino/geocoder/bulk.py and turn it into a http://geojson.org/ file, suitable for displaying it on a map using OpenLayers. This tool can be run from the command line as follows: 
 
@@ -37,6 +37,6 @@ docker exec -it [CONTAINERID] python vivino/data/geojson/serialiser.py --inputpa
 
 What it does:
 
-3.1. Groups the geocode Vivino data by winery, using https://pandas.pydata.org/.
+  3.1. Groups the geocode Vivino data by winery, using https://pandas.pydata.org/.
 
-3.2. Serialises the data in GeoJson format, using https://pypi.org/project/Shapely/.
+  3.2. Serialises the data in GeoJson format, using https://pypi.org/project/Shapely/.

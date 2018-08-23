@@ -21,7 +21,7 @@ docker exec -it [CONTAINERID] python vivino/geocoder/bulk.py --inputpath INPUTPA
 
 What it does:
 
-  &nbsp;&nbsp;2.1. Loads a tsv file of wine data exported from a Vivino account.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.Loads a tsv file of wine data exported from a Vivino account.
 
   &nbsp;2.2. Extracts the region / country information for each entry in the file
 

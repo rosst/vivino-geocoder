@@ -30,7 +30,7 @@ class TestHelpers(TestCase):
 
         mocked_request.return_value.__enter__.return_value = a
 
-        coords = get_coordinates('test')
+        coords = get_coordinates('test', 'test')
 
         self.assertEqual(coords, (51.1576661, -1.4458572))
 
@@ -47,7 +47,7 @@ class TestHelpers(TestCase):
 
         mocked_request.return_value.__enter__.return_value = a
 
-        coords = get_coordinates('test')
+        coords = get_coordinates('test', 'test')
 
         self.assertEqual(coords, (0, 0))
 
@@ -58,7 +58,7 @@ class TestHelpers(TestCase):
 
         mocked_request.return_value.__enter__.return_value = a
 
-        coords = get_coordinates('test')
+        coords = get_coordinates('test', 'test')
 
         self.assertEqual(coords, (0, 0))
 
@@ -81,7 +81,7 @@ class TestHelpers(TestCase):
 
         mocked_request.return_value.__enter__.return_value = a
 
-        coords = get_coordinates('test')
+        coords = get_coordinates('test', 'test')
 
         self.assertEqual(coords, (0, 0))
 
@@ -104,7 +104,7 @@ class TestHelpers(TestCase):
 
         mocked_request.return_value.__enter__.return_value = a
 
-        coords = get_coordinates('test')
+        coords = get_coordinates('test', 'test')
 
         self.assertEqual(coords, (0, 0))
 

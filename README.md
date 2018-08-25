@@ -16,7 +16,7 @@ The repository contains the following command line tools and web applications:
 2. vivino/geocoder/bulk.py, which can be used to bulk geocode a Vivino export file in tsv format. This tool can be run from the command line as follows: 
 
 ```bash
-docker exec -it [CONTAINERID] python vivino/geocoder/bulk.py --inputpath INPUTPATH --outputpath OUTPUTPATH  
+docker exec -it [CONTAINERID] python vivino/geocoder/bulk.py --inputpath INPUTPATH --outputpath OUTPUTPATH --referer REFERER 
 ```
 
 What it does:

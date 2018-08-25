@@ -5,9 +5,9 @@ The purpose of this Python repository is to bulk geocode a list of wines that ca
 To get the software running in a docker container, perform the following steps:
 
 1. Install Docker (https://docs.docker.com/install/) locally.
-2. From the root directory of the project, run ```bash docker build -t geocoder .```.
-3. Run the built container, binding port 5000 in the container to port 5000 on localhost ```bash docker container run -d -p 5000:5000  geocoder:latest```.
-4. Run ```bash docker container ls``` to check the container is running.
+2. From the root directory of the project, run ```docker build -t geocoder .```.
+3. Run the built container, binding port 5000 in the container to port 5000 on localhost ```docker container run -d -p 5000:5000  geocoder:latest```.
+4. Run ```docker container ls``` to check the container is running.
 
 The repository contains the following command line tools and web applications:
 

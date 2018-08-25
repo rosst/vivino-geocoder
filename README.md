@@ -21,11 +21,11 @@ docker exec -it [CONTAINERID] python vivino/geocoder/bulk.py --inputpath INPUTPA
 
 What it does:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.Loads a tsv file of wine data exported from a Vivino account.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.Loads a csv file of wine data exported from a Vivino account.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2. Extracts the region / country information for each entry in the file
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3. Queries the https://wiki.openstreetmap.org/wiki/Nominatim API with the extraxted region / country information
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3. Queries the https://wiki.openstreetmap.org/wiki/Nominatim API with the extracted region / country information
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4. Extracts the latitude longitude from each response and updates the relevant wine entry in a new tsv file. 
 
